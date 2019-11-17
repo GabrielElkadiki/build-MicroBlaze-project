@@ -1,6 +1,8 @@
 # build-MicroBlaze-project
  A basic MicroBlaze template for Vivado 2016.3
 
+This script will auto-generate an HDL wrapper, if any modifications are made to the design be sure to delete and regenerate the HDL wrapper as it does not automatically update by default.
+
 ** For Vivado 2016.3 **
 
 How to run '.tcl' scripts in Vivado:
